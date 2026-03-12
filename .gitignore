@@ -1,0 +1,36 @@
+# [ Visual Studio ]
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.filters
+*.db
+*.opendb
+
+# [ CLion / JetBrains ]
+.idea/
+cmake-build-*/
+build/
+out/
+
+# [ Compiled Artifacts ]
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# [ Temporary & Log Files ]
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store (for macOS users)
